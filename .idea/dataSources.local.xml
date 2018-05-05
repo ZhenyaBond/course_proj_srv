@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - pickmarkdb@localhost" uuid="c5872589-1247-40fe-b5e2-c615b04f5175">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>pickmarkdb.public</schema-pattern>
+      <default-schemas>pickmarkdb.public</default-schemas>
+    </data-source>
+    <data-source name="PostgreSQL - testdb@localhost" uuid="594ca4e3-4b0b-4b3c-8d7a-ae14c11798a2">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>testdb.public</schema-pattern>
+      <default-schemas>testdb.public</default-schemas>
+    </data-source>
+  </component>
+</project>
